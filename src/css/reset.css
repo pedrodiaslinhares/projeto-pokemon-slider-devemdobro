@@ -1,0 +1,10 @@
+/* é criado esse reset para resetar alguns padrões do navegador */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /*faz com que a largura dos element ñ conte o padding e border*/
+}
+
+ul {
+    list-style: none;
+}
